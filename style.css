@@ -1,0 +1,21 @@
+body{
+background-color:aquamarine;
+
+}
+
+img{
+    width:200px;
+    height:200;
+}
+
+#mainDiv{
+    text-align: center;
+}
+
+#userName{
+    color:darkblue;
+}
+
+.userTick{
+    width:50px;
+}
